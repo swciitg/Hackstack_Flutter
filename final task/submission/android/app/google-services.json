@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "709612598060",
+    "project_id": "ishq-ca5af",
+    "storage_bucket": "ishq-ca5af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709612598060:android:e934948908094cf9aab289",
+        "android_client_info": {
+          "package_name": "com.example.ishq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709612598060-icblcnl8bhapotoufc5qn4jm37p1rl1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDkbb-C3VzlmYEVssqJdxxRoTKWqds_Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709612598060-icblcnl8bhapotoufc5qn4jm37p1rl1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709612598060-4oh5c4rippdir0m8kgah3sgtsgkm5aab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ishq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
